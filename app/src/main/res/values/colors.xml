@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/toolbar_color</color>
+    <color name="colorPrimaryDark">#00ac9b</color>
+    <color name="colorAccent">#5be0b3</color>
+    <color name="skyblue">#6ad3ff</color>
+    <color name="blue">#009cff</color>
+    <color name="soft_pink">#adadad</color>
+    <color name="deep_blue">#0089e0</color>
+    <color name="dark_blue">#284ca0</color>
+    <color name="warn_red">#ff0000</color>
+    <color name="tenant_tv_color">#077cb2</color>
+    <color name="flower_white">#f3f3f3</color>
+    <color name="soft_gray">#dadada</color>
+    <color name="light_orange">#ffeacf</color>
+    <color name="dark_gray">#7a7a7a</color>
+    <color name="color">#cccccc</color>
+    <color name="transparent_flower_light_blue">#88d3edff</color>
+    <color name="flower_light_blue">#d3edff</color>
+    <color name="flower_light_blue_dark">#a5daff</color>
+    <color name="transparent_pink">#44feb8ff</color>
+    <!--state_color-->
+    <color name="percent_state_color_checking">#3399ff</color>
+    <color name="percent_state_color_working">#ff9900</color>
+    <color name="percent_state_color_waiting">#666666</color>
+    <color name="percent_state_color_end">#66cc33</color>
+    <!--半透明黑色蒙版-->
+    <color name="mask_black">#88000000</color>
+    <!--事件上报等一系列颜色-->
+    <color name="toolbar_title_color">#3edcc6</color>
+    <color name="case_search_hint_text_color">#707070</color>
+    <!--图标的两种颜色-->
+    <color name="icon_selector_selected">@color/blue</color>
+    <color name="icon_selector_unselected">#5c5c5c</color>
+    <!--白色和浅白色-->
+    <color name="snow_white">#ffffff</color>
+    <color name="alpha_snow_white">#88ffffff</color>
+    <!--toolbar的颜色-->
+    <color name="toolbar_color">#00bfac</color>
+    <!--半透明的灰色-->
+    <color name="translateDark">#227d7d7d</color>
+    <!--非常淡黄的颜色-->
+    <color name="normal_background_yellow_white">#f1f1f1</color>
+    <!--普通的文本的灰色-->
+    <color name="normal_text_color">#5d5d5d</color>
+    <!--纯白色-->
+    <color name="normal_background_white">#ffffff</color>
+    <!--msgcount背景色-->
+    <color name="oval_background">#F7A331</color>
+    <!--夜间模式按钮颜色-->
+    <color name="switchCompat_color">#42A684</color>
+    <!--菜单底部背景色-->
+    <color name="menu_background_color">#FFFFFF</color>
+    <!--菜单背景线颜色-->
+    <color name="menu_line_color">#D8DCDD</color>
+    <!--用户信息文本的白色-->
+    <color name="menu_infotext_color">#FFFCF7</color>
+    <!--菜单item点击时背景色-->
+    <color name="menu_itemclick_background">#EAEAEA</color>
+    <color name="transparent_soft_dark">#88a9a9a9</color>
+
+    <!--银灰色-->
+    <color name="silver_gray">#e5e3e9</color>
+    <!--登录模块-->
+    <color name="main_page_bg_color">#F3F3F3</color>
+    <color name="edittext_bk_color">#FFFFFF</color>
+    <color name="edit_line_color">#cccbcb</color>
+    <color name="edit_text_color">#ffffff</color>
+    <color name="edit_text_color_hint">#55ffffff</color>
+    <!--登录按钮被选中的颜色-->
+    <color name="loginbutton_selected_color">#41A684</color>
+    <!--login字体颜色-->
+    <color name="login_selectedtext_color">#F1FCFA</color>
+    <color name="login_unselectedtext_color">#3E3E3E</color>
+    <!--投诉界面-->
+    <color name="complain_backGround_color">#E2E2E2</color>
+    <color name="complain_edittext_color">#FFFFFF</color>
+    <color name="complain_recorditem_bk">#C8C8C8</color>
+    <color name="complain_hintTV_color">#979797</color>
+    <!--城市选择-->
+    <color name="divider">#E5E5E5</color>
+    <color name="content_bg">#F3F3F3</color>
+    <color name="black">#000000</color>
+    <color name="gray">#8c8c8c</color>
+    <color name="gray_deep">#5c5c5c</color>
+    <color name="alpha_gray">#CC646464</color>
+    <!--燃气界面-->
+    <color name="people_color">#3A7AB8</color>
+    <!--地址选择-->
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="pickerview_timebtn_nor">#057dff</color>
+    <color name="pickerview_timebtn_pre">#c2daf5</color>
+    <color name="pickerview_topbar_title">#000000</color>
+
+</resources>

@@ -1,0 +1,120 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="avatar_standard_width">56dp</dimen>
+    <dimen name="avatar_standard_height">56dp</dimen>
+
+    <dimen name="header_view_height">180dp</dimen>
+    <!--标准的底部tab标签的图标的宽高-->
+    <dimen name="standard_bottom_tab_icon_width">32dp</dimen>
+    <dimen name="standard_bottom_tab_icon_height">32dp</dimen>
+    <!--标准的底部tab标签的text文本的尺寸-->
+    <dimen name="standard_bottom_tab_text_size">14sp</dimen>
+    <!--菜单图标标准的尺寸-->
+    <dimen name="standard_menu_icon_dimen_width">32dp</dimen>
+    <dimen name="standard_menu_icon_dimen_height">32dp</dimen>
+    <!--燃气中定位等小图标尺寸-->
+    <dimen name="standard_icon_dimen_width">32dp</dimen>
+    <dimen name="standard_icon_dimen_height">32dp</dimen>
+    <!--组合textview的高度-->
+    <dimen name="standard_textview_height">48dp</dimen>
+    <!--下一步按钮的高度-->
+    <dimen name="next_button_height">60dp</dimen>
+    <!--详细界面的字体-->
+    <dimen name="detail_text_height">18sp</dimen>
+    <!--缴费明细单位的高度-->
+    <dimen name="company_pay_height">80dp</dimen>
+    <!--缴费明细详情的高度-->
+    <!--城市选择-->
+    <dimen name="side_letter_bar_letter_size">12sp</dimen>
+    <dimen name="side_letter_bar_width">36dp</dimen>
+    <dimen name="city_text_size">16sp</dimen>
+    <!--toolbar左边imageview宽高-->
+    <dimen name="toolbar_left">36dp</dimen>
+    <!--toolbar左边iamgeview距离左边的外边距-->
+    <dimen name="toolbar_left_marginleft">8dp</dimen>
+    <dimen name="toolbar_left_padding">2dp</dimen>
+    <!--toolbar标题字体大小-->
+    <dimen name="toolbar_title_size">24sp</dimen>
+    <!--吐槽页面底部imageview的宽高,左上边距以及内边距-->
+    <dimen name="askquestion_bottom_sqeech_height">30dp</dimen>
+    <dimen name="askquestion_bottom_sqeech_weight">30dp</dimen>
+    <dimen name="askquestion_bottom_sqeech_marginLeft">4dp</dimen>
+    <dimen name="askquestion_bottom_sqeech_marginTop">4dp</dimen>
+    <dimen name="askquestion_bottom_sqeech_padding">4dp</dimen>
+    <!--吐槽页面底部button的宽高,右边距以及内边距-->
+    <dimen name="askquestion_bottom_button_height">30dp</dimen>
+    <dimen name="askquestion_bottom_button_weight">48dp</dimen>
+    <dimen name="askquestion_bottom_button_marginRight">4dp</dimen>
+    <dimen name="askquestion_bottom_button_padding">4dp</dimen>
+    <!--吐槽页面底部edittext的外边距以及内边距-->
+    <dimen name="askquestion_bottom_edittext_margin">5dp</dimen>
+    <dimen name="askquestion_bottom_edittext_padding">4dp</dimen>
+
+    <dimen name="pickerview_topbar_btn_textsize">18sp</dimen>
+    <dimen name="pickerview_topbar_paddingleft">20dp</dimen>
+    <dimen name="pickerview_topbar_paddingright">30dp</dimen>
+    <dimen name="pickerview_topbar_title_textsize">18sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <!--标准的padding-->
+    <dimen name="standard_padding_8dp">8dp</dimen>
+    <dimen name="large_padding_16dp">16dp</dimen>
+    <dimen name="padding_24dp">24dp</dimen>
+    <dimen name="padding_32dp">32dp</dimen>
+    <dimen name="padding_extra_64dp">64dp</dimen>
+    <!--二维码的大小尺寸-->
+    <dimen name="qrcode_size_width">164dp</dimen>
+    <dimen name="qrcode_size_height">164dp</dimen>
+    <!--自定义的button高度-->
+    <dimen name="btn_height_short">40dp</dimen>
+    <!--<dimen name=""></dimen>-->
+    <!--各种尺寸边距-->
+    <dimen name="margin_24dp">24dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_40dp">40dp</dimen>
+    <dimen name="margin_48dp">48dp</dimen>
+    <dimen name="margin_64dp">64dp</dimen>
+    <dimen name="margin_little_4dp">4dp</dimen>
+    <!--图标大小-->
+    <dimen name="icon_little_size_width">24dp</dimen>
+    <dimen name="icon_little_size_height">24dp</dimen>
+    <dimen name="icon_logo_large_size_width">128dp</dimen>
+    <dimen name="icon_logo_large_size_height">128dp</dimen>
+    <!--字体尺寸-->
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_normal_reduce">16sp</dimen>
+    <dimen name="text_size_normal">18sp</dimen>
+    <dimen name="text_size_normal_plus">20sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+
+    <!--标准的适配器子布局item的默认设置-->
+    <dimen name="item_margin">4dp</dimen>
+    <dimen name="img_icon_standard_width">36dp</dimen>
+    <dimen name="img_icon_standard_height">36dp</dimen>
+    <dimen name="img_icon_standard_width_plus">48dp</dimen>
+    <dimen name="img_icon_standard_height_plus">48dp</dimen>
+    <dimen name="span_height">88dp</dimen>
+    <dimen name="default_padding_4dp">4dp</dimen>
+    <dimen name="default_evelation">4dp</dimen>
+    <dimen name="max_title_img_height">32dp</dimen>
+    <dimen name="layout_change_tenant_width">80dp</dimen>
+    <dimen name="tablelayout_standard_height">40dp</dimen>
+    <!--事件上报组件小一些的宽度-->
+    <dimen name="input_reduce_width">80dp</dimen>
+    <dimen name="input_short_width_plus">110dp</dimen>
+    <dimen name="input_short_width_120">120dp</dimen>
+    <dimen name="input_little_short_width">140dp</dimen>
+    <!--事件上报默认组件宽度-->
+    <dimen name="input_default_width">180dp</dimen>
+    <!--事件上报组件短宽度-->
+    <dimen name="input_short_width">80dp</dimen>
+    <!--事件上报输入内容宽度-->
+    <dimen name="input_large_width">220dp</dimen>
+    <dimen name="input_large_height">120dp</dimen>
+    <dimen name="input_very_large_height">200dp</dimen>
+    <!--图片缩略的宽、高-->
+    <dimen name="preview_image_width">100dp</dimen>
+    <dimen name="preview_image_height">100dp</dimen>
+</resources>

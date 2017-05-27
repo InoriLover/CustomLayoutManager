@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--需要api在21以上-->
+<!--以view为边界，内部形成圆形涟漪点击效果，需要view宽、高一致-->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:color="@android:color/holo_orange_dark"
+        tools:targetApi="lollipop">
+    <item
+        android:id="@android:id/mask"
+        android:drawable="@drawable/fishy_simple_bkg_round">
+    </item>
+</ripple>
